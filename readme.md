@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://firefly-iii.org/">
-    <img src="https://raw.githubusercontent.com/firefly-iii/firefly-iii/develop/.github/assets/img/logo-small.png" alt="Firefly III" width="120" height="178">
+    <img src="img/logo-small.png" alt="Firefly III" width="120" height="178">
   </a>
 </p>
   <h1 align="center">Firefly III</h1>
@@ -46,7 +46,7 @@
 ## About Firefly III
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/firefly-iii/firefly-iii/develop/.github/assets/img/imac-complete.png" alt="Firefly III on iMac" />
+	<img src="imac-complete.png" alt="Firefly III on iMac" />
 </p>
 
 "Firefly III" is a (self-hosted) manager for your personal finances. It can help you keep track of your expenses and income, so you can spend less and save more. Firefly III supports the use of budgets, categories and tags. Using a bunch of external tools, you can import data. It also has many neat financial reports available.
@@ -171,22 +171,5 @@ Do you want to contact me? You can email me at [james@firefly-iii.org](mailto:ja
 
 Over time, [many people have contributed to Firefly III](https://github.com/firefly-iii/firefly-iii/graphs/contributors). I'm grateful for their support and code contributions.
 
-The Firefly III logo is made by the excellent Cherie Woo.
-
-[packagist-shield]: https://img.shields.io/packagist/v/grumpydictator/firefly-iii.svg?style=flat-square
-[packagist-url]: https://packagist.org/packages/grumpydictator/firefly-iii
-[license-shield]: https://img.shields.io/github/license/firefly-iii/firefly-iii.svg?style=flat-square
-[license-url]: https://www.gnu.org/licenses/agpl-3.0.html
-[stars-shield]: https://img.shields.io/github/stars/firefly-iii/firefly-iii.svg?style=flat-square
-[stars-url]: https://github.com/firefly-iii/firefly-iii/stargazers
-[donate-shield]: https://img.shields.io/badge/donate-%24%20%E2%82%AC-brightgreen?style=flat-square
-[donate-url]: #support-the-development-of-firefly-iii
-[build-shield]: https://api.travis-ci.com/firefly-iii/firefly-iii.svg?branch=master
-[build-url]: https://travis-ci.com/github/firefly-iii/firefly-iii
-[sc-gate-shield]: https://sonarcloud.io/api/project_badges/measure?project=firefly-iii_firefly-iii&metric=alert_status
-[sc-bugs-shield]: https://sonarcloud.io/api/project_badges/measure?project=firefly-iii_firefly-iii&metric=bugs
-[sc-smells-shield]: https://sonarcloud.io/api/project_badges/measure?project=firefly-iii_firefly-iii&metric=code_smells
-[sc-vuln-shield]: https://sonarcloud.io/api/project_badges/measure?project=firefly-iii_firefly-iii&metric=vulnerabilities
-[sc-project-url]: https://sonarcloud.io/dashboard?id=firefly-iii_firefly-iii
 [bp-badge]: https://bestpractices.coreinfrastructure.org/projects/6335/badge
 [bp-url]: https://bestpractices.coreinfrastructure.org/projects/6335 
