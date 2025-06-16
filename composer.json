@@ -102,7 +102,7 @@
         "pragmarx/google2fa": "^8.0",
         "predis/predis": "^2.2",
         "psr/log": "<4",
-        "ramsey/uuid": "^4.7",
+        "ramsey/uuid": "^4.8",
         "rcrowe/twigbridge": "^0.14",
         "spatie/laravel-html": "^3.2",
         "spatie/laravel-ignition": "^2",
